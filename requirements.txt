@@ -1,0 +1,12 @@
+csv==1.0
+datasets
+keras
+nltk==3.9.1
+numpy==1.24.0
+pandas==1.5.3
+pickle
+re==2.2.1
+rouge
+sklearn==1.1.3
+string
+tensorflow
