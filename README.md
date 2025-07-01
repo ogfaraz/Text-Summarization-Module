@@ -23,7 +23,7 @@ This module is focused on summarizing long-form text documents (e.g., news artic
 - **Bidirectional LSTM encoder** for improved context retention
 - **LSTM decoder** with teacher forcing
 - Trained on the **CNN/DailyMail** dataset
-- Evaluation using BLEU scores
+- Evaluation using Rogue scores
 
 ---
 
@@ -87,10 +87,10 @@ The model is trained on the [CNN/DailyMail dataset](https://huggingface.co/datas
 
 ## 👩‍💻 Author
 
-**Faraz Ahmad**
-Final Year Project - 2025
-Department of Computer Science
-*Bahria University*
+* **Faraz Ahmad Khan**
+* Final Year Project - 2025
+* Department of Computer Science
+* *Bahria University*
 
 ---
 
